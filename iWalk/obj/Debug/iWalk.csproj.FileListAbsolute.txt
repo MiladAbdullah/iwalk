@@ -1,0 +1,11 @@
+D:\Projects\Final Projects\iWalk\iWalk\bin\Debug\iWalk.exe.config
+D:\Projects\Final Projects\iWalk\iWalk\bin\Debug\iWalk.exe
+D:\Projects\Final Projects\iWalk\iWalk\bin\Debug\iWalk.pdb
+D:\Projects\Final Projects\iWalk\iWalk\bin\Debug\Emgu.CV.dll
+D:\Projects\Final Projects\iWalk\iWalk\bin\Debug\Emgu.Util.dll
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.Tester.resources
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.csproj.GenerateResource.Cache
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.csproj.CoreCompileInputs.cache
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.exe
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.pdb
+D:\Projects\Final Projects\iWalk\iWalk\obj\Debug\iWalk.csprojResolveAssemblyReference.cache
